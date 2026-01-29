@@ -1,0 +1,5 @@
+pnpm-lock.yaml
+node_modules
+
+# 环境变量文件（包含敏感信息，不要提交到 git）
+.env
